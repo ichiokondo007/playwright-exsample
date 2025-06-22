@@ -1,0 +1,19 @@
+# TypeScript build output
+dist/
+build/
+
+# TypeScript declaration files
+*.d.ts
+
+# Test coverage
+coverage/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Node.js関連（上記Node.js用も含める）
+node_modules/
+*.log
+.env
+.env.local
